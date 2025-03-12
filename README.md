@@ -11,7 +11,7 @@
 -       Advanced Machine Learning & Model Optimization.
 -       Unsupervised Learning & Clustering Techniques.
 -       Interactive Dashboards & Data Apps with Dash & Plotly
--   
+  
 - 💞️ I’m looking to collaborate on data science projects, open-source contributions, and research involving analytics and visualization.
 
 - 📫 How to reach me:
